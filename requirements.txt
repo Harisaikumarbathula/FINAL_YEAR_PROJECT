@@ -1,0 +1,11 @@
+Flask
+Flask-Session
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+openpyxl
+regex
+fpdf
+python-dotenv
